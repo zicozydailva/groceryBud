@@ -61,7 +61,6 @@ function App() {
     setIsEditing(true)
     setEditID(id)
     setName(specificItem.title)
-    
   }
 
   useEffect(() => {
